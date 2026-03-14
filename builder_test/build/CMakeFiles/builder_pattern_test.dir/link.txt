@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/builder_pattern_test.dir/main.cpp.o -o /home/patt/MIM_labs/builder_test/output/builder_pattern_test  /home/patt/MIM_labs/builder_test/components/builder_component/output/libbuilder_library.a

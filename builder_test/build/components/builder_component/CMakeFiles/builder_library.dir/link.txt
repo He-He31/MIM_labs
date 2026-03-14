@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/patt/MIM_labs/builder_test/components/builder_component/output/libbuilder_library.a CMakeFiles/builder_library.dir/src/builder_pattern.cpp.o
+/usr/bin/ranlib /home/patt/MIM_labs/builder_test/components/builder_component/output/libbuilder_library.a

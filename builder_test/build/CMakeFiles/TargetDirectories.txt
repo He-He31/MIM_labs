@@ -1,0 +1,8 @@
+/home/patt/MIM_labs/builder_test/build/CMakeFiles/builder_pattern_test.dir
+/home/patt/MIM_labs/builder_test/build/CMakeFiles/clean-all.dir
+/home/patt/MIM_labs/builder_test/build/CMakeFiles/rebuild.dir
+/home/patt/MIM_labs/builder_test/build/CMakeFiles/edit_cache.dir
+/home/patt/MIM_labs/builder_test/build/CMakeFiles/rebuild_cache.dir
+/home/patt/MIM_labs/builder_test/build/components/builder_component/CMakeFiles/builder_library.dir
+/home/patt/MIM_labs/builder_test/build/components/builder_component/CMakeFiles/edit_cache.dir
+/home/patt/MIM_labs/builder_test/build/components/builder_component/CMakeFiles/rebuild_cache.dir
